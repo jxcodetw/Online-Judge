@@ -1,6 +1,4 @@
 #include <cstdio>
-#include <cstring>
-#include <algorithm>
 
 int main(int argc, const char * argv[]) {
 #ifndef ONLINE_JUDGE
