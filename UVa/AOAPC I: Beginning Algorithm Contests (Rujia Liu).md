@@ -7,5 +7,9 @@
     - <a href="/UVa/Volume 4/458 - The Decoder.cpp">458 - The Decoder</a>
     - <a href="/UVa/Volume 4/494 - Kindergarten Counting Game.cpp">494 - Kindergarten Counting Game</a>
     - <a href="/UVa/Volume 4/414 - Machined Surfaces.cpp">414 - Machined Surfaces</a>
+    - <a href="/UVa/Volume 4/490 - Rotating Sentences.cpp">490 - Rotating Sentences</a>
     - <a href="/UVa/Volume 4/445 - Marvelous Mazes.cpp">445 - Marvelous Mazes</a>
+    - <a href="/UVa/Volume 4/488 - Triangle Wave.cpp">488 - Triangle Wave</a>
+    - <a href="/UVa/Volume 4/489 - Hangman Judge.cpp">489 - Hangman Judge</a>
     - <a href="/UVa/Volume 6/694 - The Collatz Sequence.cpp">694 - The Collatz Sequence</a>
+    - <a href="/UVa/Volume 4/457 - Linear Cellular Automata.cpp">457 - Linear Cellular Automata</a>
