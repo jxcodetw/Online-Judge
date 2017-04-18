@@ -16,4 +16,11 @@
 
 * Volume 1. Elementary Problem Solving
   + String
+    - <a href="/UVa/Volume 4/401 - Palindromes.cpp">401 - Palindromes</a>
+    - <a href="/UVa/Volume 103/10361 - Automatic Poetry.cpp">10361 - Automatic Poetry</a>
+    - <a href="/UVa/Volume 5/537 - Artificial Intelligence?.cpp">537 - Artificial Intelligence?</a>
+    - <a href="/UVa/Volume 4/409 - Excuses, Excuses!.cpp">409 - Excuses, Excuses!</a>
     - <a href="/UVa/Volume 108/10878 - Decode the tape.cpp">10878 - Decode the tape</a>
+    - <a href="/UVa/Volume 108/10815 - Andy's First Dictionary.cpp">10815 - Andy's First Dictionary</a>
+    - <a href="/UVa/Volume 6/644 - Immediate Decodability.cpp">644 - Immediate Decodability</a>
+    - <a href="/UVa/Volume 101/10115 - Automatic Editing.cpp">10115 - Automatic Editing</a>
