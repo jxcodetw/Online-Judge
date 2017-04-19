@@ -17,6 +17,7 @@
 * Volume 1. Elementary Problem Solving
   + String
     - <a href="/UVa/Volume 4/401 - Palindromes.cpp">401 - Palindromes</a>
+    - <a href="/UVa/Volume 100/10010 - Where's Waldorf?.cpp">10010 - Where's Waldorf?</a>
     - <a href="/UVa/Volume 103/10361 - Automatic Poetry.cpp">10361 - Automatic Poetry</a>
     - <a href="/UVa/Volume 5/537 - Artificial Intelligence?.cpp">537 - Artificial Intelligence?</a>
     - <a href="/UVa/Volume 4/409 - Excuses, Excuses!.cpp">409 - Excuses, Excuses!</a>
