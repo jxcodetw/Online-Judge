@@ -17,11 +17,21 @@
 * Volume 1. Elementary Problem Solving
   + String
     - <a href="/UVa/Volume 4/401 - Palindromes.cpp">401 - Palindromes</a>
-    - <a href="/UVa/Volume 100/10010 - Where's Waldorf?.cpp">10010 - Where's Waldorf?</a>
+    - <a href="/UVa/Volume 100/10010%20-%20Where's%20Waldorf%3F.cpp">10010 - Where's Waldorf?</a>
     - <a href="/UVa/Volume 103/10361 - Automatic Poetry.cpp">10361 - Automatic Poetry</a>
-    - <a href="/UVa/Volume 5/537 - Artificial Intelligence?.cpp">537 - Artificial Intelligence?</a>
+    - <a href="/UVa/Volume 5/537 - Artificial Intelligence%3F.cpp">537 - Artificial Intelligence?</a>
     - <a href="/UVa/Volume 4/409 - Excuses, Excuses!.cpp">409 - Excuses, Excuses!</a>
     - <a href="/UVa/Volume 108/10878 - Decode the tape.cpp">10878 - Decode the tape</a>
     - <a href="/UVa/Volume 108/10815 - Andy's First Dictionary.cpp">10815 - Andy's First Dictionary</a>
     - <a href="/UVa/Volume 6/644 - Immediate Decodability.cpp">644 - Immediate Decodability</a>
     - <a href="/UVa/Volume 101/10115 - Automatic Editing.cpp">10115 - Automatic Editing</a>
+  + Big Number
+    - <a href="/UVa/Volume 4/424 - Integer Inquiry.cpp">424 - Integer Inquiry</a>
+    - <a href="/UVa/Volume 101/10106 - Product.cpp">10106 - Product</a>
+    - <a href="/UVa/Volume 4/465 - Overflow.cpp">465 - Overflow</a>
+    - <a href="/UVa/Volume 7/748 - Exponentiation.cpp">748 - Exponentiation</a>
+    - <a href="/UVa/Volume 104/10494 - If We Were a Child Again.cpp">10494 - If We Were a Child Again</a>
+  + Maths - Number Theory
+    - <a href="/UVa/Volume 5/575 - Skew Binary.cpp">575 - Skew Binary</a>
+    - <a href="/UVa/Volume 108/10879 - Code Refactoring.cpp">10879 - Code Refactoring</a>
+
