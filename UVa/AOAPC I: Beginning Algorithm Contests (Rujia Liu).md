@@ -31,6 +31,13 @@
     - <a href="/UVa/Volume 4/465 - Overflow.cpp">465 - Overflow</a>
     - <a href="/UVa/Volume 7/748 - Exponentiation.cpp">748 - Exponentiation</a>
     - <a href="/UVa/Volume 104/10494 - If We Were a Child Again.cpp">10494 - If We Were a Child Again</a>
+  + Sorting/Searching
+    - <a href="/UVa/Volume 3/340 - Master-Mind Hints.cpp">340 - Master-Mind Hints</a>
+    - <a href="/UVa/Volume 104/10420 - List of Conquests.cpp">10420 - List of Conquests</a>
+    - <a href="/UVa/Volume 104/10474 - Where is the Marble%3F.cpp">10474 - Where is the Marble?</a>
+    - <a href="/UVa/Volume 2/299 - Train Swapping.cpp">299 - Train Swapping</a>
+    - <a href="/UVa/Volume 1/156 - Ananagrams.cpp">156 - Ananagrams</a>
+    - <a href="/UVa/Volume 107/10785 - The Mad Numerologist.cpp">10785 - The Mad Numerologist</a>
   + Maths - Number Theory
     - <a href="/UVa/Volume 5/575 - Skew Binary.cpp">575 - Skew Binary</a>
     - <a href="/UVa/Volume 108/10879 - Code Refactoring.cpp">10879 - Code Refactoring</a>
