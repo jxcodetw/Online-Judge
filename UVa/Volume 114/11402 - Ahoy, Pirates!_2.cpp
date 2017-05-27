@@ -1,6 +1,9 @@
 #include <iostream>
 
-const char NOP = 'X', SET = 'F', RESET = 'E', FLIP = 'I';
+const char NOP = 'X';
+const char SET = 'F';
+const char RESET = 'E';
+const char FLIP = 'I';
 
 int pirate[2000000];
 
@@ -8,17 +11,6 @@ struct Node {
     int val, len;
     Node *l, *r;
     char op;
-    
-    int getVal() {
-        if (op == SET) {
-            return len;
-        } else if (op == RESET) {
-            return 0;
-        } else if (op == FLIP) {
-            return len - val;
-        }
-        return val;
-    }
     
     void changeVal(char o) {
         if (o == SET || o == RESET) {
@@ -34,27 +26,32 @@ struct Node {
                 op = SET;
             }
         }
+        if (o == SET) {
+            val = len;
+        } else if (o == RESET) {
+            val =  0;
+        } else if (o == FLIP) {
+            val =  len - val;
+        }
     }
     
     void pull() {
-        val = l->getVal() + r->getVal();
+        val = l->val + r->val;
         op = NOP;
     }
     
     void push() {
-        if (op != NOP) {
-            l->changeVal(op);
-            r->changeVal(op);
-        }
+        l->changeVal(op);
+        r->changeVal(op);
     }
-} segment_tree[4000000];
+} segment_tree[8000000];
 
 Node* build(int idx, int L, int R) {
     Node *now = &segment_tree[idx];
     now->op = NOP;
+    now->len = 1;
     if (L == R) {
         now->val = pirate[L];
-        now->len = 1;
         return now;
     }
     
@@ -70,11 +67,12 @@ int query(Node *now, int L, int R, int x, int y) {
     if (y < L || x > R) {
         return 0;
     } else if (x<=L && R<=y) {
-        return now->getVal();
+        return now->val;
     }
     now->push();
     int m = (L+R)/2;
-    int ans = query(now->l,   L, m, x, y)+query(now->r, m+1, R, x, y);
+    int ans = query(now->l,   L, m, x, y) +
+              query(now->r, m+1, R, x, y);
     now->pull();
     return ans;
 }
