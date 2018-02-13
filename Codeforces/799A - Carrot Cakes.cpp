@@ -5,10 +5,10 @@ int main(int argc, const char * argv[]) {
     freopen("input.txt", "r", stdin);
 #endif
     std::ios_base::sync_with_stdio(false);
-    
+
     int N, T, K, D;
     while(std::cin >> N >> T >> K >> D) {
-        
+
         // 4 2 1 4
         int left = N-(D/T)*K;
         if (left>K) {
