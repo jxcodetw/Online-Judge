@@ -44,6 +44,9 @@ void dijkstra(int s, std::vector<std::pair<int, int> > graph[MAX]) {
 		cur = heap.top(); heap.pop();
 		if (vis[cur.idx]) {continue;}
 		vis[cur.idx] = true;
+		if (dist[cur.idx] > 600) {
+			continue;
+		}
 
 		for(int i=0;i<graph[cur.idx].size();++i) {
 			std::pair<int, int> edge = graph[cur.idx][i];
